@@ -67,7 +67,7 @@ All experiments finish by benchmarking the learned polynomial in dense vs. spars
 
 ---
 
-The lab is deliberately minimal. Use it as a sandbox for new binning strategies, higher-order factors, or alternative learning rules—and as a reminder that thermodynamic computing is ultimately about shrinking search, not just recreating familiar demos.
+The lab is deliberately minimal. Use it as a sandbox for new binning strategies, higher-order factors, or alternative learning rules—and as a reminder that thermodynamic computing is ultimately about shrinking search.
 
 ---
 
